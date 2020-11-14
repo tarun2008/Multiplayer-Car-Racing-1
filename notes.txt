@@ -1,0 +1,5 @@
+.ref()=it is used to refer to location of database value that we want (x,y)
+.on()=creates a listener whitch keeps listening the changes in the database
+readPosition(data)=continuesly reads the values from the database
+showError()=if there is any error in readung the values in the database then the showError function is called
+.set()=it is used to set or update the values in the database
